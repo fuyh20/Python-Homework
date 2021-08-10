@@ -1,4 +1,4 @@
-# Readme
+# README
 
 * DataLoader.py：定义了加载数据集的类
 * main.py：加载训练好的模型，输入./Dataset/中的文件名，来预测性别
