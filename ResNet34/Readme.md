@@ -9,7 +9,7 @@
 
 该目录存放数据集，需要有两个文件夹（首先运行data_classification.py）：
 
-**./images/**中有所有的文件和female.txt、male.txt           
+./images/中有所有的文件和female.txt、male.txt           
 
-**./photos/**中有两个文件夹**female、male**
+./photos/中有两个文件夹female、male
 

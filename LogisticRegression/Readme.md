@@ -6,7 +6,7 @@
 
 该目录存放数据集，需要有文件夹：
 
-**./Dataset/**中有**image/**和female.txt、male.txt    
+./Dataset/中有image/和female.txt、male.txt    
 
-**image/**中有所有的数据集 (.jpg)       
+image/中有所有的数据集 (.jpg)       
 
