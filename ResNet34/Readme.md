@@ -1,4 +1,4 @@
-# Readme
+# README
 
 * data_classification.py：将数据集按标签分为两个文件夹
 * main.py：加载训练好的模型，输入./images/中的文件名，来预测性别
