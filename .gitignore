@@ -1,0 +1,5 @@
+.git/
+*.pdf
+*.pth
+ResNet34/__pycache__/
+LogisticRegression/__pycache__/
